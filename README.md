@@ -46,7 +46,7 @@ You can view a live demo of the app here: [Task Manager React App Demo](https://
 
    The app will be available at http://localhost:3000.
 
- ##Screenshots
+ ##Screenshot
 
  
 #Screenshot
