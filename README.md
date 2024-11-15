@@ -46,20 +46,20 @@ You can view a live demo of the app here: [Task Manager React App Demo](https://
 
    The app will be available at http://localhost:3000.
 
- Screenshots
+ ##Screenshots
 
 ![Task List View](Taskmanager1.png)
 ![Task Creation Form](Taskmanager2.png)
 ![Responsive Design](Taskmanager3.png)
 
- Technologies Used
+ ##Technologies Used
 
 - React.js: JavaScript library for building user interfaces.
 - CSS: For styling the app.
 - React Hooks: For managing state and lifecycle methods.
 - LocalStorage: To persist data across page reloads.
 
- Project Structure
+ ##Project Structure
 
 ```
 Task-manager-react-app/
@@ -81,13 +81,7 @@ Task-manager-react-app/
 └── README.md
 ```
 
-## Contributing
 
-1. Fork the repository.
-2. Create a new branch (`git checkout -b feature-branch`).
-3. Make your changes and commit them (`git commit -am 'Add feature'`).
-4. Push to the branch (`git push origin feature-branch`).
-5. Create a new pull request.
 
 ## License
 
@@ -106,7 +100,6 @@ This README.md file includes the following:
 4. Screenshots: Three screenshots showcasing the task list view, task creation form, and responsive design.
 5. Technologies Used: A list of the main technologies and libraries used in the project.
 6. Project Structure: The directory structure of the project.
-7. Contributing: Guidelines for contributing to the project.
 8. License: The MIT license information.
 9. Contact: Your contact email address for questions or suggestions.
 
