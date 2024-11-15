@@ -50,9 +50,11 @@ You can view a live demo of the app here: [Task Manager React App Demo](https://
 
  
 #Screenshot
+
 ![Task List View](Taskmanager1.png)
 
 #Screenshot
+
 ![Task Creation Form](Taskmanager2.png)
 
 
