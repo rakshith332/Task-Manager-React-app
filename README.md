@@ -2,20 +2,12 @@
 # Task Manager React App
 
 A simple and efficient Task Manager application built with React.js. This app allows users to create, manage, and track tasks for different events or projects. The app includes features such as task categorization, task priority settings, sorting, and more.
-# Getting Started with Create React App
 
-
-## Available Scripts
-
-In the project directory, you can run:
 
 ### `npm start`
 
 Runs the app in the development mode.\
-Open [http://localhost:3000]((http://localhost:3000/)) to view it in your browser.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
 
 ## Features
 
