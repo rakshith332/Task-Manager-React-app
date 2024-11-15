@@ -16,7 +16,8 @@ A simple and efficient Task Manager application built with React.js. This app al
 
 ## Demo
 
-You can view a live demo of the app here: [Task Manager React App Demo](https://github.com/rakshith332/Task-Manager-React-app) 
+You can view a live demo of the app [here]((https://github.com/rakshith332/Task-Manager-React-app)).
+
 
 ## Installation
 
