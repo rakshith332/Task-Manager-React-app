@@ -16,7 +16,7 @@ A simple and efficient Task Manager application built with React.js. This app al
 
 ## Demo
 
-You can view a live demo of the app here: [Task Manager React App Demo](https://task-manager-react-app.vercel.app/)
+You can view a live demo of the app here: [Task Manager React App Demo]( http://192.168.28.185:3000 )
 
 ## Installation
 
