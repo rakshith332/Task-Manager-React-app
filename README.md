@@ -21,7 +21,7 @@ Runs the app in the development mode.\
 
 ## Demo
 
-You can view a live demo of the app here: [[Demo Link](http://localhost:3000/)]
+You can view a live demo of the app here: [[Demo Link]( http://192.168.28.185:3000)]
 
 ## Installation
 
