@@ -29,7 +29,7 @@ You may also see any lint errors in the console.
 
 ## Demo
 
-You can view a live demo of the app here: [Demo Link](#)
+You can view a live demo of the app here: [Demo Link](#http://localhost:3000/)
 
 ## Installation
 
