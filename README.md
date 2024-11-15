@@ -4,7 +4,6 @@
 A simple and efficient Task Manager application built with React.js. This app allows users to create, manage, and track tasks for different events or projects. The app includes features such as task categorization, task priority settings, sorting, and more.
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
