@@ -100,7 +100,7 @@ This README.md file includes the following:
 4. Screenshots: Three screenshots showcasing the task list view, task creation form, and responsive design.
 5. Technologies Used: A list of the main technologies and libraries used in the project.
 6. Project Structure: The directory structure of the project.
-8. License: The MIT license information.
-9. Contact: Your contact email address for questions or suggestions.
+7. License: The MIT license information.
+8. Contact: Your contact email address for questions or suggestions.
 
-Feel free to customize the content and formatting as needed for your specific project.
+
