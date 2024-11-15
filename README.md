@@ -48,9 +48,16 @@ You can view a live demo of the app here: [Task Manager React App Demo](https://
 
  ##Screenshots
 
+ 
+#Screenshot1
 ![Task List View](Taskmanager1.png)
+
+#Screenshot2
 ![Task Creation Form](Taskmanager2.png)
+
+#Screenshot3
 ![Responsive Design](Taskmanager3.png)
+
 
  ##Technologies Used
 
