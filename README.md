@@ -7,7 +7,7 @@ A simple and efficient Task Manager application built with React.js. This app al
 
 ## Features
 
-- **Create and manage tasks**: Add new tasks with detailed descriptions and due dates.
+- Create and manage tasks: Add new tasks with detailed descriptions and due dates.
 - **Task Categories**: Categorize tasks by event or project.
 - **Task Priority**: Set priority levels (High, Medium, Low) for each task.
 - **Search & Filter**: Easily search and filter tasks by category or priority.
