@@ -1,0 +1,19 @@
+/* Basic reset and layout setup */
+body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  display: flex;
+  justify-content: center;
+  align-items: center; /* Centers content vertically */
+  min-height: 100vh; /* Ensures full screen height */
+  background-color: #f4f7fa; /* Light background color */
+  font-family: Arial, sans-serif; /* Default font family */
+}
+
+/* Global element reset */
+*,
+*::before,
+*::after {
+  box-sizing: inherit;
+}
