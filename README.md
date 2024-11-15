@@ -58,7 +58,6 @@ You can view a live demo of the app here: [Task Manager React App Demo](https://
 - **React.js**: JavaScript library for building user interfaces.
 - **CSS**: For styling the app.
 - **React Hooks**: For managing state and lifecycle methods.
-- **React Router**: For routing between pages (if used).
 - **LocalStorage**: To persist data across page reloads.
 
 ## Project Structure
